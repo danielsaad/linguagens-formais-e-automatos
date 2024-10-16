@@ -10,6 +10,7 @@
 
 ## Aulas
 
+- [Introdução](/assets/aulas/introducao.pdf)
 ## Listas de exercícios
 
 ## Materiais
