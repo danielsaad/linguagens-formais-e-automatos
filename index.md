@@ -12,6 +12,7 @@
 
 - [Introdução](/assets/aulas/introducao.pdf)
 - [Autômatos Finitos Determinísticos](/assets/aulas/automatos-finitos-deterministicos.pdf)
+
 ## Listas de exercícios
 
 ## Materiais
