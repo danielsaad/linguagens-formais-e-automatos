@@ -16,11 +16,16 @@
 
 ## Listas de exercícios
 
+- [Conceitos preliminares](/assets/listas-de-exercicios/conceitos-preliminares.pdf)
+- [Autômatos Finitos Determinísticos](/assets/listas-de-exercicios/automatos-finitos-deterministicos.pdf)
+- [Autômatos Finitos Não-Determinísticos](/assets/listas-de-exercicios/automatos-finitos-nao-deterministicos.pdf)
+
 ## Materiais
 
 - [Software JFLAP](https://www.jflap.org/jflaptmp/)
 - [Material sobre demonstrações matemáticas](assets/aulas/proofs.pdf)
-- [Provas anteriores]()
-- [Minha biblioteca IFB](https://www.ifb.edu.br/espaco-do-estudante/noticias/29605-minha-biblioteca-possibilita-acesso-a-acervos-digitais-para-comunidade-do-ifb)
+- [Minha biblioteca
+  IFB](https://www.ifb.edu.br/espaco-do-estudante/noticias/29605-minha-biblioteca-possibilita-acesso-a-acervos-digitais-para-comunidade-do-ifb)
+- [Vídeos UFU - Prof. Felipe Louza](https://www.youtube.com/watch?v=fM3YNiEoQds&list=PLuARAw3cqFRBLFB9VuGbwFyh_RehmBX1c)
 
 ## [Notas]()
