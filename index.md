@@ -13,12 +13,14 @@
 - [Introdução](/assets/aulas/introducao.pdf)
 - [Autômatos Finitos Determinísticos](/assets/aulas/automatos-finitos-deterministicos.pdf)
 - [Autômatos Finitos não-Determinísticos](/assets/aulas/automatos-finitos-nao-deterministicos.pdf)
+- [Expressões Regulares](/assets/aulas/expressoes-regulares.pdf)
 
 ## Listas de exercícios
 
 - [Conceitos preliminares](/assets/listas-de-exercicios/conceitos-preliminares.pdf)
 - [Autômatos Finitos Determinísticos](/assets/listas-de-exercicios/automatos-finitos-deterministicos.pdf)
 - [Autômatos Finitos Não-Determinísticos](/assets/listas-de-exercicios/automatos-finitos-nao-deterministicos.pdf)
+- [Expressões Regulares](/assets/listas-de-exercicios/expressores-regulares.pdf)
 
 ## Materiais
 
