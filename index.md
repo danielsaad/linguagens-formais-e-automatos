@@ -21,6 +21,7 @@
 - [Autômatos Finitos Determinísticos](/assets/listas-de-exercicios/automatos-finitos-deterministicos.pdf)
 - [Autômatos Finitos Não-Determinísticos](/assets/listas-de-exercicios/automatos-finitos-nao-deterministicos.pdf)
 - [Expressões Regulares](/assets/listas-de-exercicios/expressores-regulares.pdf)
+- [Laboratório de Expressões Regulares](https://moj.naquadah.com.br/)[(Casos de teste)](/assets/regex-io.tar.gz)
 
 ## Materiais
 
