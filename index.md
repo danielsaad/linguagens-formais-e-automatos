@@ -14,6 +14,7 @@
 - [Autômatos Finitos Determinísticos](/assets/aulas/automatos-finitos-deterministicos.pdf)
 - [Autômatos Finitos não-Determinísticos](/assets/aulas/automatos-finitos-nao-deterministicos.pdf)
 - [Expressões Regulares](/assets/aulas/expressoes-regulares.pdf)
+- [Linguagens Regulares](/assets/aulas/linguagens-regulares.pdf)
 
 ## Listas de exercícios
 
@@ -22,6 +23,7 @@
 - [Autômatos Finitos Não-Determinísticos](/assets/listas-de-exercicios/automatos-finitos-nao-deterministicos.pdf)
 - [Expressões Regulares](/assets/listas-de-exercicios/expressores-regulares.pdf)
 - [Laboratório de Expressões Regulares](https://moj.naquadah.com.br/) [(Casos de teste)](/assets/regex-io.tar.gz) 
+- [Linguagens Regulares e o Lema do Bombeamento](/assets/listas-de-exercicios/linguages-regulares-e-o-lema-do-bombeamento.pdf)
 
 ## Materiais
 
