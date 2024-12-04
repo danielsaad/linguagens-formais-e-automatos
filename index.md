@@ -23,7 +23,7 @@
 - [Autômatos Finitos Não-Determinísticos](assets/listas-de-exercicios/automatos-finitos-nao-deterministicos.pdf)
 - [Expressões Regulares](assets/listas-de-exercicios/expressores-regulares.pdf)
 - [Laboratório de Expressões Regulares](https://moj.naquadah.com.br/) [(Casos de teste)](assets/regex-io.tar.gz) 
-- [Linguagens Regulares e o Lema do Bombeamento](assets/listas-de-exercicios/linguages-regulares-e-o-lema-do-bombeamento.pdf)
+- [Linguagens Regulares e o Lema do Bombeamento](assets/listas-de-exercicios/linguagens-regulares-e-o-lema-do-bombeamento.pdf)
 
 ## Materiais
 
