@@ -21,7 +21,7 @@
 - [Conceitos preliminares](assets/listas-de-exercicios/conceitos-preliminares.pdf)
 - [Autômatos Finitos Determinísticos](assets/listas-de-exercicios/automatos-finitos-deterministicos.pdf)
 - [Autômatos Finitos Não-Determinísticos](assets/listas-de-exercicios/automatos-finitos-nao-deterministicos.pdf)
-- [Expressões Regulares](assets/listas-de-exercicios/expressores-regulares.pdf)
+- [Expressões Regulares](assets/listas-de-exercicios/expressoes-regulares.pdf)
 - [Laboratório de Expressões Regulares](https://moj.naquadah.com.br/) [(Casos de teste)](assets/regex-io.tar.gz) 
 - [Linguagens Regulares e o Lema do Bombeamento](assets/listas-de-exercicios/linguagens-regulares-e-o-lema-do-bombeamento.pdf)
 
