@@ -33,4 +33,4 @@
   IFB](https://www.ifb.edu.br/espaco-do-estudante/noticias/29605-minha-biblioteca-possibilita-acesso-a-acervos-digitais-para-comunidade-do-ifb)
 - [Vídeos UFU - Prof. Felipe Louza](https://www.youtube.com/watch?v=fM3YNiEoQds&list=PLuARAw3cqFRBLFB9VuGbwFyh_RehmBX1c)
 
-## [Notas]()
+## [Notas](assets/notas.pdf)
