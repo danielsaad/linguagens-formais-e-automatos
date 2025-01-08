@@ -15,6 +15,7 @@
 - [Autômatos Finitos não-Determinísticos](assets/aulas/automatos-finitos-nao-deterministicos.pdf)
 - [Expressões Regulares](assets/aulas/expressoes-regulares.pdf)
 - [Linguagens Regulares](assets/aulas/linguagens-regulares.pdf)
+- [Gramáticas Livres de Contexo](assets/aulas/igramaticas-livres-de-contexto.pdf)
 
 ## Listas de exercícios
 
