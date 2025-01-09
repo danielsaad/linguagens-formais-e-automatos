@@ -25,6 +25,8 @@
 - [Expressões Regulares](assets/listas-de-exercicios/expressoes-regulares.pdf)
 - [Laboratório de Expressões Regulares](https://moj.naquadah.com.br/) [(Casos de teste)](assets/regex-io.tar.gz) 
 - [Linguagens Regulares e o Lema do Bombeamento](assets/listas-de-exercicios/linguagens-regulares-e-o-lema-do-bombeamento.pdf)
+- [Gramáticas Livres de Contexto](/assets/listas-de-exercicios/gramaticas-livres-de-contexto.pdf):w
+
 
 ## Materiais
 
