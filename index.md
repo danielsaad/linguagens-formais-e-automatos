@@ -15,7 +15,7 @@
 - [Autômatos Finitos não-Determinísticos](assets/aulas/automatos-finitos-nao-deterministicos.pdf)
 - [Expressões Regulares](assets/aulas/expressoes-regulares.pdf)
 - [Linguagens Regulares](assets/aulas/linguagens-regulares.pdf)
-- [Gramáticas Livres de Contexo](assets/aulas/igramaticas-livres-de-contexto.pdf)
+- [Gramáticas Livres de Contexo](assets/aulas/gramaticas-livres-de-contexto.pdf)
 
 ## Listas de exercícios
 
@@ -25,7 +25,7 @@
 - [Expressões Regulares](assets/listas-de-exercicios/expressoes-regulares.pdf)
 - [Laboratório de Expressões Regulares](https://moj.naquadah.com.br/) [(Casos de teste)](assets/regex-io.tar.gz) 
 - [Linguagens Regulares e o Lema do Bombeamento](assets/listas-de-exercicios/linguagens-regulares-e-o-lema-do-bombeamento.pdf)
-- [Gramáticas Livres de Contexto](/assets/listas-de-exercicios/gramaticas-livres-de-contexto.pdf):w
+- [Gramáticas Livres de Contexto](/assets/listas-de-exercicios/gramaticas-livres-de-contexto.pdf)
 
 
 ## Materiais
