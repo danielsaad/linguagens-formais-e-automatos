@@ -16,6 +16,7 @@
 - [Expressões Regulares](assets/aulas/expressoes-regulares.pdf)
 - [Linguagens Regulares](assets/aulas/linguagens-regulares.pdf)
 - [Gramáticas Livres de Contexo](assets/aulas/gramaticas-livres-de-contexto.pdf)
+- [Autômatos de Pilha](assets/aulas/automatos-de-pilha.pdf)
 
 ## Listas de exercícios
 
@@ -26,6 +27,7 @@
 - [Laboratório de Expressões Regulares](https://moj.naquadah.com.br/) [(Casos de teste)](assets/regex-io.tar.gz) 
 - [Linguagens Regulares e o Lema do Bombeamento](assets/listas-de-exercicios/linguagens-regulares-e-o-lema-do-bombeamento.pdf)
 - [Gramáticas Livres de Contexto](/assets/listas-de-exercicios/gramaticas-livres-de-contexto.pdf)
+- [Autômatos de Pilha](/assets/listas-de-exercicios/automatos-de-pilha.pdf)
 
 
 ## Materiais
