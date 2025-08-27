@@ -4,6 +4,8 @@ layout: default
 
 # Aulas
 
+- [Introdução](assets/aulas/introducao.pdf)
+
 ## Linguagens regulares
 
 - [Autômatos finitos](assets/aulas/automatos-finitos-deterministicos.pdf)
