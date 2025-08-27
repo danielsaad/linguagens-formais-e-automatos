@@ -8,7 +8,7 @@ layout: default
 
 - [Autômatos finitos](assets/aulas/automatos-finitos-deterministicos.pdf)
 - [Autômatos finitos não-determinísticos](assets/aulas/automatos-finitos-nao-deterministicos.pdf)
-- [Expressões regulares](assets/aulas/expressões-regulares.pdf)
+- [Expressões regulares](assets/aulas/expressoes-regulares.pdf)
 - [Linguagens regulares](assets/aulas/linguagens-regulares.pdf)
 
 ## Linguagens livres de contexto
