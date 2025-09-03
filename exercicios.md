@@ -8,7 +8,7 @@ layout: default
 
 ## Linguagens regulares
 
-- [Autômatos finitos](assets/listas-de-exercicios/automatos-finitos-nao-deterministicos.pdf)
+- [Autômatos finitos](assets/listas-de-exercicios/automatos-finitos-deterministicos.pdf)
 - [Autômatos finitos não-determinísticos](assets/listas-de-exercicios/automatos-finitos-nao-deterministicos.pdf)
 - [Expressões regulares](assets/listas-de-exercicios/expressões-regulares.pdf)
 - [Linguagens regulares](assets/listas-de-exercicios/linguagens-regulares-e-o-lema-do-bombeamento.pdf)
