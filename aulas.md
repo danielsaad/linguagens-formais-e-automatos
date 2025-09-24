@@ -11,7 +11,6 @@ layout: default
 - [Autômatos finitos](assets/aulas/automatos-finitos-deterministicos.pdf)
 - [Autômatos finitos não-determinísticos](assets/aulas/automatos-finitos-nao-deterministicos.pdf)
 - [Expressões regulares](assets/aulas/expressoes-regulares.pdf)
-    -[MOJ](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_2025_2_lfa_regex)
 - [Linguagens regulares](assets/aulas/linguagens-regulares.pdf)
 
 ## Linguagens livres de contexto
