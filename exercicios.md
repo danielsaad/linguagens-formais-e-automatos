@@ -12,6 +12,7 @@ layout: default
 - [Autômatos finitos não-determinísticos](assets/listas-de-exercicios/automatos-finitos-nao-deterministicos.pdf)
 - [Expressões regulares](assets/listas-de-exercicios/expressoes-regulares.pdf)
     - [MOJ](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_2025_2_lfa_regex)
+    - [Casos de testes](assets/regex-io.tar.gz)
 - [Linguagens regulares](assets/listas-de-exercicios/linguagens-regulares-e-o-lema-do-bombeamento.pdf)
 
 ## Linguagens livres de contexto
